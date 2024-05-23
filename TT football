@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Football Info</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Football Info</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#">Actualités</a></li>
+        <li><a href="#">Matchs</a></li>
+        <li><a href="#">Équipes</a></li>
+        <li><a href="#">Joueurs</a></li>
+        <li><a href="#">Analyses</a></li>
+        <li><a href="#">Statistiques</a></li>
+        <li><a href="#">Multimédia</a></li>
+        <li><a href="#">Forum</a></li>
+        <li><a href="#">À propos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Dernières Actualités</h2>
+      <!-- Insérer les actualités ici -->
+    </section>
+
+    <section>
+      <h2>Matchs à Venir</h2>
+      <!-- Insérer le calendrier des matchs ici -->
+    </section>
+
+    <section>
+      <h2>Analyses en Vedette</h2>
+      <!-- Insérer les analyses ici -->
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2024 Football Info. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
